@@ -13,7 +13,7 @@ The system combines:
 
 ### Installation
 ```bash
-git clone [https://github.com/your-username/burmese-nlp-dkt.git](https://github.com/your-username/burmese-nlp-dkt.git)
+git clone [https://github.com/Aung-Ko-Ko-Oo/burmese-nlp-dkt.git](https://github.com/your-username/burmese-nlp-dkt.git)
 cd burmese-nlp-dkt
 pip install -r requirements.txt
 ```
